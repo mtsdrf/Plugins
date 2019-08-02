@@ -1,0 +1,23 @@
+html, body, .container-fluid{
+    height: 100%;
+    width: 100%;
+}
+body{
+    background-color: #0c1928;
+}
+.jumbotron{
+    background-color: #0c1928;
+}
+
+.no-padding{
+    padding: 0px!important;
+}
+.no-margin{
+    margin: 0px!important;
+}
+.text-white{
+    color: white;
+}
+.bg-white{
+    background-color: white;
+}
