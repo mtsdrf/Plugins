@@ -5,16 +5,16 @@ var menu_items = {
         {"title": "Gráfico Pizza", "link": "#"},
         {"title": "Gráfico Donut", "link": "#"}
     ],
-    "Chart.js" : [
+    /*"Chart.js" : [
         {"title": "Gráfico Barras", "link": "#"},
         {"title": "Gráfico Área", "link": "#"},
         {"title": "Gráfico Pizza", "link": "#"},
         {"title": "Gráfico Donut", "link": "#"}
     ],
-    /*"JustGage" : [
+    "JustGage" : [
         {"title": "Gráfico Pizza", "link": "#"},
         {"title": "Gráfico Donut", "link": "#"}
-    ],*/
+    ],
     "JS/Jquery" : [
         {"title" : "Replace", "link": "#"},
         {"title" : "Map", "link": "#"},
@@ -37,5 +37,5 @@ var menu_items = {
         {"title" : "ToList", "link": "#"},
         {"title" : "ToArray", "link": "#"},
         {"title" : "Contains", "link": "#"},
-    ]
+    ]*/
 }
